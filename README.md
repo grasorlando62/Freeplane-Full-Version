@@ -230,3 +230,6 @@ This repository serves as the official landing page for Freeplane. The software 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Freeplane today!**
+
+---
+**Last updated:** 2026-09-09 18:26:34 UTC
