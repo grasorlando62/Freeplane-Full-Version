@@ -232,4 +232,4 @@ This repository serves as the official landing page for Freeplane. The software 
 **Get the most recent version of Freeplane today!**
 
 ---
-**Last updated:** 2026-11-01 00:52:39 UTC
+**Last updated:** 2026-11-01 07:16:27 UTC
